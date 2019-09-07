@@ -639,9 +639,9 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\123270810\noticias\src\styles.css */"./src/styles.css");
-__webpack_require__(/*! C:\Users\123270810\noticias\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\123270810\noticias\node_modules\font-awesome\css\font-awesome.min.css */"./node_modules/font-awesome/css/font-awesome.min.css");
+__webpack_require__(/*! C:\Users\Aquiles\noticias\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\Aquiles\noticias\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\Users\Aquiles\noticias\node_modules\font-awesome\css\font-awesome.min.css */"./node_modules/font-awesome/css/font-awesome.min.css");
 
 
 /***/ })
